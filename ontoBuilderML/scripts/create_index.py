@@ -46,3 +46,4 @@ index.add(np.vstack(vectors))
 print("AC")
 faiss.write_index(index, os.path.join(EMBEDDINGS_DIR, "faiss_index"))
 print("AD")
+del model  # Delete the model to free memory
