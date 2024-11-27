@@ -1,0 +1,8 @@
+ontoBuilderML/pdfs/
+ontoBuilderML/pdfs/**
+ontoBuilderML/venv/
+ontoBuilderML/venv/**
+ontoBuilderML/data/
+ontoBuilderML/data/**
+ontoBuilderML/embeddings/
+ontoBuilderML/embeddings/**
